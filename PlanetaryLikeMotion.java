@@ -2,6 +2,7 @@
  * Calculates positions, velocities and accerations of two bodies using
  * equations kinda like planetary motion formulas.
  * Runs the animation of the simulation
+ * Modified from this nice example: https://www.javacodex.com/Swing/Bouncing-Ball
  */
 
 import java.awt.*;
